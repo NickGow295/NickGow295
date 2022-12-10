@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Nick
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Java and Javascript
+- ![](https://github.com/NickGow295/NickGow295/blob/main/hu-tao-ghost.gif)
 - ![](https://github.com/NickGow295/NickGow295/blob/main/hu-tao-ghost.gif)
 <!---
 NickGow295/NickGow295 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
